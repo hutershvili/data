@@ -1,1 +1,9 @@
-Hier werden Datensets abgelegt. 
+Die Asyl-Datensets basieren auf Daten, die vom Bundesministerium für Inneres (BMI) zum Themenbereich Asyl veröffenticht wurden und über die BMI-Webseite zugänglich sind: http://www.bmi.gv.at/cms/BMI_Asylwesen/statistik.
+
+Das Inneninisterium veröffentlicht monatlich einen Bericht mit Daten zu in Österreich gestellten Asylanträgen, wobei in den vergangenen Jahren die 15 Herkunftsländer mit den meisten AntragstellerInnen angeführt werden. Das BMI veröfentlicht auch einen jährlichen Asylbericht, in dem alle gestellten Asylanträge nach Monat und Staatsbürgerschaft aufgelistet sind, und in dem aggregierte Statistiken zu den entschiedenen Asylanträgen veröffentlicht werden. Die Monatsberichte werden offline genommen, wenn der entsprechende Jahresbericht veröffentlicht wird. Der letzte verfügbare Monatsbericht ist für den Februar 2015, der aktuellste Jahresbericht für 2013. 
+
+Die ältesten online verfügbaren Berichte sind aus dem Jahr 2002, und insbesondere in den früheren Jahren von wechselnder Granularität und unterschiedlichen Details. Bis 2003 wurden Verfahren ausschliesslich nach Asylgesetz 1997 abgewickelt, ab 2004 nach dem Asylgestz 2003, wobei in den Jahren 2004 und 2005 Verfahren unter beiden Gesetzen durchgeführt wurden – für die beiden Verfahrenstypen sind separate Daten verfügbar. 
+
+Die Asylberichte werden derzeit ausschliesslich als PDF-Dateien veröffentlicht. Wir haben die einzelnen Berichte durch eine kommerzielle OCR (optical character recognition software) gejagt, die Daten dann nach bestem Wissen und Gewissen überprüft, gesäubert (etwa in dem wir Begriffe und Namen vereinheitlicht und aggregierte Zwischensummen gelöscht haben) und die Daten dann aggregiert. Falls uns trotzdem ein Fehler durchgerutscht sein sollte, bitte melden, am besten via twitter an @mathiashuter. 
+
+
